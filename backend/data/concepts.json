@@ -1,0 +1,57 @@
+[
+  {
+    "id": "c1",
+    "name": "Ivan Martinez",
+    "color": "#3b82f6"
+  },
+  {
+    "id": "c2",
+    "name": "Leo Giordano",
+    "color": "#10b981"
+  },
+  {
+    "id": "c3",
+    "name": "Marcelo Rabozzi",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": "c4",
+    "name": "Irene Romoli",
+    "color": "#ec4899"
+  },
+  {
+    "id": "c5",
+    "name": "Claudia Egea",
+    "color": "#f59e0b"
+  },
+  {
+    "id": "c_1779889171547_uo8bsqwly",
+    "name": "Marcela Savorgnano",
+    "color": "#ef4444"
+  },
+  {
+    "id": "c_1779889257531_r4bfabq41",
+    "name": "Veronica Ordonez",
+    "color": "#f97316"
+  },
+  {
+    "id": "c_1779889264471_00dg87at8",
+    "name": "Marcelo Lazarte",
+    "color": "#14b8a6"
+  },
+  {
+    "id": "c_1779889281449_99hryywzo",
+    "name": "Gustavo Mansilla",
+    "color": "#6366f1"
+  },
+  {
+    "id": "c_1779889308796_0hxd0hets",
+    "name": "Alejandro Mansur",
+    "color": "#6b7280"
+  },
+  {
+    "id": "c_1779889313874_jccctfjfe",
+    "name": "Nancy Higa",
+    "color": "#8e01a0"
+  }
+]
